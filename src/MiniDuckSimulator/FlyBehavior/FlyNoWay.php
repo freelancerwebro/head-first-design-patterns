@@ -8,6 +8,6 @@ class FlyNoWay implements FlyBehavior
 {
     public function fly(): void
     {
-        echo "Fly no way";
+        echo "I can't fly\n";
     }
 }

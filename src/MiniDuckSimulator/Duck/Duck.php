@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace DP\MiniDuckSimulator\Duck;
 
+use DP\MiniDuckSimulator\FlyBehavior\FlyBehavior;
+
 abstract class Duck
 {
     protected $flyBehavior;
