@@ -2,9 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DP\MiniDuckSimulator;
-
-require "../../vendor/autoload.php";
+require "vendor/autoload.php";
 
 use DP\MiniDuckSimulator\Duck\MallardDuck;
 
